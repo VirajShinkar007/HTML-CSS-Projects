@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    background: #3c6e71;
+    
+}
+
+.hello{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    font-size: 100px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+img{
+    
+    width: 800px;
+    height: auto;   
+}
+
+.to{
+    margin-top: 100px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-weight:bold;
+}
+.rook{
+    margin-top: 100px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    font-weight: lighter;
+    font-style: italic;
+}
+.learn{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    border: 1px solid rgb(40, 39, 39);
+    padding: 50px;
+   font-weight: inherit;
+   position:relative;
+}
+.sood{
+    margin-left: 550px;
+    color: rgb(192, 195, 199);
+    
+ 
+}
+
+.need{
+    margin-right: 450px;
+}
+
+.tt{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    border: 1px solid rgb(40, 39, 39);
+    padding: 100px;
+
+}
+#right{
+    font-size: 40px;
+}
+#left{
+    font-size: 40px;
+    color: rgb(240, 21, 21);
+    margin-bottom: 10px;
+}
+.dd{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-right: 200px;
+ 
+    
+}
+.rok{
+    margin-left: 200px;
+}
+#not{
+    display: flex;
+    justify-items:space-around;
+    font-style: italic;
+}
+.rrr{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#bee9e8;
+}
+.rrrrr{
+    background-color:#bee9e8;
+    color:#373f51;
+    font-size: 20px;
+    font-style: inherit;
+    
+}
